@@ -8,6 +8,20 @@
     </url>
     
     <url>
+        <loc>http://yoursite.com/archive/</loc>
+        <lastmod>2020-02-16T04:37:52.661Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://yoursite.com/about/</loc>
+        <lastmod>2020-02-16T04:37:31.557Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://yoursite.com/404.html</loc>
         <lastmod>2020-01-30T07:13:41.169Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -17,20 +31,6 @@
     <url>
         <loc>http://yoursite.com/tags/</loc>
         <lastmod>2020-01-30T07:13:41.151Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://yoursite.com/about/</loc>
-        <lastmod>2020-01-30T07:13:41.150Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://yoursite.com/archive/</loc>
-        <lastmod>2020-01-30T07:13:41.147Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
